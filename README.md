@@ -57,5 +57,5 @@ uv run streamlit run search_app.py
 ---
 
 ## ✍️ 문서 정보
-* **작성자**: Antigravity (Gemini 3.5 Flash)
+* **작성자**: Q의 지식에 의해  Antigravity (Gemini 3.5 Flash) 가 생성
 * **작성시간**: 2026-06-10 11:41 (KST)
